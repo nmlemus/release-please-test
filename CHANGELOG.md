@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://www.github.com/nmlemus/release-please-test/compare/v0.2.0...v0.3.0) (2024-01-19)
+
+
+### Features
+
+* **main.py:** mockup for the main methods to play with Azure Storage ([502365e](https://www.github.com/nmlemus/release-please-test/commit/502365e547062c2bd1b36984afd9c28f5a3d8745))
+
 ## [0.2.0](https://www.github.com/nmlemus/release-please-test/compare/v0.1.0...v0.2.0) (2024-01-19)
 
 
