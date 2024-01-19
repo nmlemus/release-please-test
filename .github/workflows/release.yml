@@ -16,4 +16,4 @@ jobs:
       - name: Release with release-please
         uses: google-github-actions/release-please-action@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN }}
